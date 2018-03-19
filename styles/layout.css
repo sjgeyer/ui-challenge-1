@@ -1,0 +1,23 @@
+header, aside, article, footer, ul {
+  width: 100%;
+}
+
+header {
+  height: 75px;
+  line-height: 75px;
+}
+
+aside {
+  height: 150px;
+  line-height: 150px;
+}
+
+article {
+  height: 125px;
+  line-height: 125px;
+}
+
+footer {
+  height: 80px;
+  line-height: 80px;
+}

@@ -1,0 +1,25 @@
+* {
+  font-family: sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  background-color: #0000ff;
+}
+
+aside {
+  background-color: #babaf8;
+}
+
+article {
+  background-color: #9090fc;
+}
+
+li {
+  background-color: #4545f5;
+}
+
+footer {
+  background-color:#0000ff;
+}
