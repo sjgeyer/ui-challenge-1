@@ -9,7 +9,7 @@ In lab today you will be building a single responsive webpage based off of the p
 
 Your document must be designed in a ***mobile-first*** approach and must be responsive when the screen size changes. The details of the media query specifications are up to you, but your breakpoint must be at 800 pixels, because that is what our imaginary client wants.
 
-This is an independent project, but your are free to collaborate with your classmates.
+This is an independent project, but you are free to collaborate with your classmates.
 
 ---
 
